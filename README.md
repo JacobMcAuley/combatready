@@ -1,5 +1,8 @@
 # Combat Ready module for FVTT,
 
+## THIS MODULE IS NO LONGER BEING ACTIVELY MAINTAINED BY ME. YOU CAN FIND THE NEW DEVELOPER AT THE FOLLOWING URL Hi Norc,
+[Smilligan93's version](https://github.com/smilligan93/combatready).
+
 Shows a graphic + sound for players a round just before a player's turn (Next Up) and
 during their turn.
 
